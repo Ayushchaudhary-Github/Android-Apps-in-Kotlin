@@ -2,7 +2,7 @@
 
 ### This Repo is going to be thr collection of multiplee app that make by me when i am lerning android using kotlin.
 
-Bellow, list of open source Apps that we build in tutorial
+Bellow, list of open source Apps that we build in this journey.
 
 - [Find My Age  App](https://github.com/YushChaudhary/Android-Apps-in-Kotlin/tree/main/HappyBirthday).
 
