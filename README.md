@@ -6,7 +6,7 @@ Bellow, list of open source Apps that we build in this journey.
 
 - [Happy Birthday App](https://github.com/YushChaudhary/Android-Apps-in-Kotlin/tree/main/HappyBirthday).
 
-- [Dice roll app]([https://github.com/YushChaudhary/Android-Apps-in-Kotlin/tree/main/HappyBirthday](https://github.com/Ayushchaudhary-Github/Android-Apps-in-Kotlin/tree/day-4/Dice%20roll%20app).
+- [Dice roll app](https://github.com/Ayushchaudhary-Github/Android-Apps-in-Kotlin/tree/day-4/Dice%20roll%20app).
 
 - [Age Calculator](https://github.com/Ayushchaudhary-Github/Android-Apps-in-Kotlin/tree/day-4/Age%20Calculator).
 
