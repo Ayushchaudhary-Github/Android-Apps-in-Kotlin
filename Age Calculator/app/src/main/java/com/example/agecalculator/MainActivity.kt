@@ -22,8 +22,7 @@ class MainActivity : AppCompatActivity() {
         btn.setOnClickListener {
             clickbtn()
         }
-
-        }
+    }
 
     fun clickbtn(){
 
@@ -57,5 +56,4 @@ class MainActivity : AppCompatActivity() {
         dpd.show()
 
     }
-
 }
